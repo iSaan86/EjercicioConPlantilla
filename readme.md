@@ -9,7 +9,7 @@ En el proceso de aprendizaje haciamos varios ejercicios prácticos para aprender
 ![Captura 2](images/captura2.jpg)
 
 ## Ver ejemplo en vivo
-[https://github.com/iSaan86/EjercicioConPlantilla](https://github.com/iSaan86/EjercicioConPlantilla)
+[ https://isaan86.github.io/EjercicioConPlantilla/]( https://isaan86.github.io/EjercicioConPlantilla/)
 
 ## Tecnologías Utilizadas
 

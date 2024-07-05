@@ -5,7 +5,8 @@ En el proceso de aprendizaje haciamos varios ejercicios prácticos para aprender
 
 ## Captura de Pantalla
 
-![Captura](IMAGENES/captura.jpg)
+![Captura](images/captura.jpg)
+![Captura 2](images/captura2.jpg)
 
 ## Ver ejemplo en vivo
 [https://github.com/iSaan86/EjercicioConPlantilla](https://github.com/iSaan86/EjercicioConPlantilla)

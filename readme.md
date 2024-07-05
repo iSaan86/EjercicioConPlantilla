@@ -1,4 +1,4 @@
-# Evaluación Práctica MF0950 del Certificado Profesional
+# Ejercicio del Certificado Profesional
 
 Ejercicio que consiste en modificar una plantilla a mi gusto, con el contenido que yo elija, estilo, imágenes, texto, etc. Utilizando HTML y CSS.
 En el proceso de aprendizaje haciamos varios ejercicios prácticos para aprender a fondo HTML, CSS y JavaScript y luego pasabamos a hacer evaluaciones prácticas y cuestionarios con preguntas, tanto de las unidades de aprendizaje como del módulko en cuestión.Comparto varias en mi GitHub.
